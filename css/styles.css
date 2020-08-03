@@ -1,0 +1,145 @@
+.app-header {
+  margin-top: 40px;
+}
+
+.app-img {
+  margin: 30px 30px;
+}
+
+.container-fluid {
+  background-color: #30e3ca;
+  padding: 3% 15%;
+  text-align: center;
+  width: 100%;
+}
+
+.credits {
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+
+.description {
+  text-align: left;
+  margin-bottom: 80px;
+}
+
+.first-page {
+  font-weight: bold;
+  font-size: 2rem;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 10rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.info {
+  background-color: white;
+  width: 80%;
+  line-height: 150%;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.info-header {
+  margin-bottom: 3%;
+}
+
+.list-header {
+  font-weight: bold;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.link2 {
+  color: white;
+  text-decoration: none;
+}
+
+.link2:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.map {
+  border-radius: 20px;
+}
+
+
+p {
+  font-size: 1.3rem;
+}
+
+.prenvention-info {
+  background-color: white;
+  line-height: 150%;
+  text-align: center;
+  line-height: 190%;
+  font-size: 1.3rem;
+  margin-top: 50px;
+}
+
+.prevention-list {
+  background-color: white;
+  text-align: left;
+  line-height: 150%;
+  font-size: 1.3rem;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.prevention-img {
+  width: 40%;
+  height: 40%;
+}
+
+.symptom-info {
+  background-color: white;
+  line-height: 150%;
+  text-align: center;
+  line-height: 190%;
+  font-size: 1.3rem;
+}
+
+.symptom-list {
+  text-align: left;
+  width: 140%;
+  font-size: 1.2rem;
+  margin-left: 50%;
+}
+
+.Sanitiser {
+  margin-bottom: 60px;
+}
+
+.source1 {
+  margin-right: 30px;
+}
+
+.woman-doctor {
+  position: relative;
+  float: left;
+  height: auto;
+  width: auto;
+}
+
+hr {
+  border: #EAF6F6 dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 50px auto;
+}
